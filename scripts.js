@@ -35,7 +35,7 @@ document.addEventListener('DOMContentLoaded', () => {
   doSearch('');
 
   // ---- Contact form: Formspree integration ----
-  const FORMSPREE_ENDPOINT = 'REPLACE_WITH_YOUR_FORM_ENDPOINT'; // e.g. https://formspree.io/f/abcdwxyz
+  const FORMSPREE_ENDPOINT = 'https://formspree.io/f/xwpnavzo'; // e.g. https://formspree.io/f/abcdwxyz
   const form = document.getElementById('contact-form');
   const statusEl = document.getElementById('form-status');
 
